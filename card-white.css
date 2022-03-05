@@ -1,0 +1,8 @@
+.card-white {
+  background-color: #ACB992;
+  padding:20px ;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  margin: 30px 10px;
+  text-align: center;
+}
